@@ -1,3 +1,4 @@
+# this is the new version v0.0.2
 resource "aws_vpc" "terraformvpc"{
   cidr_block = "172.0.0.0/16"
   instance_tenancy = "default"
